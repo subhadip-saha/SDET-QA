@@ -1,1 +1,1 @@
-# SDET-QA
+# Java-Practice-Programs-AT
